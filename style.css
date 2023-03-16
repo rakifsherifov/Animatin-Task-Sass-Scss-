@@ -1,0 +1,471 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#general{
+    width: 100%;
+    height: 753px;
+    position: relative;
+    overflow: hidden;
+}
+
+#ferma{
+    width: 100%;
+    height: 100%;
+    background-image: url('img/farm.webp');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: absolute;
+}
+
+#hinduska1{
+    width: 250px;
+    height: 200px;
+    background-image: url('img/hinduska.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 50%;
+    top: -300px;
+    transform: translateX(-50%);
+    animation-name: hinduska1;
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes hinduska1 {
+    from{
+        top: -300px;
+    }
+    to{
+        top: 100px;
+    }
+}
+
+#hinduska2{
+    width: 250px;
+    height: 200px;
+    background-image: url('img/hinduska.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 10%;
+    top: -300px;
+    transform: translateX(-50%);
+    animation-name: hinduska2;
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes hinduska2 {
+    from{
+        top: -300px;
+    }
+    to{
+        top: 100px;
+    }
+}
+#hinduska3{
+    width: 250px;
+    height: 200px;
+    background-image: url('img/hinduska.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 20%;
+    top: -300px;
+    transform: translateX(-50%);
+    animation-name: hinduska3;
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes hinduska3 {
+    from{
+        top: -300px;
+    }
+    to{
+        top: 100px;
+    }
+}
+#hinduska4{
+    width: 250px;
+    height: 200px;
+    background-image: url('img/hinduska.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 30%;
+    top: -300px;
+    transform: translateX(-50%);
+    animation-name: hinduska4;
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes hinduska4 {
+    from{
+        top: -300px;
+    }
+    to{
+        top: 100px;
+    }
+}
+#hinduska5{
+    width: 250px;
+    height: 200px;
+    background-image: url('img/hinduska.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 40%;
+    top: -300px;
+    transform: translateX(-50%);
+    animation-name: hinduska5;
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes hinduska5 {
+    from{
+        top: -300px;
+    }
+    to{
+        top: 100px;
+    }
+}
+#hinduska6{
+    width: 250px;
+    height: 200px;
+    background-image: url('img/hinduska.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 60%;
+    top: -300px;
+    transform: translateX(-50%);
+    animation-name: hinduska6;
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes hinduska6 {
+    from{
+        top: -300px;
+    }
+    to{
+        top: 100px;
+    }
+}
+#hinduska7{
+    width: 250px;
+    height: 200px;
+    background-image: url('img/hinduska.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 70%;
+    top: -300px;
+    transform: translateX(-50%);
+    animation-name: hinduska7;
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes hinduska7 {
+    from{
+        top: -300px;
+    }
+    to{
+        top: 100px;
+    }
+}
+
+#hinduska8{
+    width: 250px;
+    height: 200px;
+    background-image: url('img/hinduska.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 80%;
+    top: -300px;
+    transform: translateX(-50%);
+    animation-name: hinduska8;
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+}
+@keyframes hinduska8 {
+    from{
+        top: -300px;
+    }
+    to{
+        top: 100px;
+    }
+}
+#hinduska9{
+    width: 250px;
+    height: 200px;
+    background-image: url('img/hinduska.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 90%;
+    top: -300px;
+    transform: translateX(-50%);
+    animation-name: hinduska9;
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+}
+@keyframes hinduska9 {
+    from{
+        top: -300px;
+    }
+    to{
+        top: 100px;
+    }
+}
+
+
+#hinduska10{
+    width: 250px;
+    height: 200px;
+    background-image: url('img/hinduska.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 90%;
+    top: -300px;
+    transform: translateX(-50%);
+    animation-name: hinduska9;
+    animation-duration: 1s;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+}
+@keyframes hinduska9 {
+    from{
+        top: -300px;
+    }
+    to{
+        top: 100px;
+    }
+}
+#hinduska10{
+    width: 250px;
+    height: 200px;
+    background-image: url('img/hinduska.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 90%;
+    top: -300px;
+    transform: translateX(-50%);
+    animation-name: hinduska10;
+    animation-duration: 1s;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+}
+@keyframes hinduska10 {
+    from{
+        top: -300px;
+    }
+    to{
+        top: 400px;
+    }
+}
+#hinduska11{
+    width: 250px;
+    height: 200px;
+    background-image: url('img/hinduska.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 80%;
+    top: -300px;
+    transform: translateX(-50%);
+    animation-name: hinduska11;
+    animation-duration: 1s;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+}
+@keyframes hinduska11 {
+    from{
+        top: -300px;
+    }
+    to{
+        top: 400px;
+    }
+}
+#hinduska12{
+    width: 250px;
+    height: 200px;
+    background-image: url('img/hinduska.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 70%;
+    top: -300px;
+    transform: translateX(-50%);
+    animation-name: hinduska12;
+    animation-duration: 1s;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+}
+@keyframes hinduska12 {
+    from{
+        top: -300px;
+    }
+    to{
+        top: 400px;
+    }
+}
+#hinduska13{
+    width: 250px;
+    height: 200px;
+    background-image: url('img/hinduska.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 60%;
+    top: -300px;
+    transform: translateX(-50%);
+    animation-name: hinduska13;
+    animation-duration: 1s;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+}
+@keyframes hinduska13 {
+    from{
+        top: -300px;
+    }
+    to{
+        top: 400px;
+    }
+}
+#hinduska14{
+    width: 250px;
+    height: 200px;
+    background-image: url('img/hinduska.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 50%;
+    top: -300px;
+    transform: translateX(-50%);
+    animation-name: hinduska14;
+    animation-duration: 1s;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+}
+@keyframes hinduska14 {
+    from{
+        top: -300px;
+    }
+    to{
+        top: 400px;
+    }
+}
+#hinduska15{
+    width: 250px;
+    height: 200px;
+    background-image: url('img/hinduska.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 40%;
+    top: -300px;
+    transform: translateX(-50%);
+    animation-name: hinduska15;
+    animation-duration: 1s;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+}
+@keyframes hinduska15 {
+    from{
+        top: -300px;
+    }
+    to{
+        top: 400px;
+    }
+}
+#hinduska16{
+    width: 250px;
+    height: 200px;
+    background-image: url('img/hinduska.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 30%;
+    top: -300px;
+    transform: translateX(-50%);
+    animation-name: hinduska16;
+    animation-duration: 1s;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+}
+@keyframes hinduska16 {
+    from{
+        top: -300px;
+    }
+    to{
+        top: 400px;
+    }
+}
+#hinduska17{
+    width: 250px;
+    height: 200px;
+    background-image: url('img/hinduska.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 20%;
+    top: -300px;
+    transform: translateX(-50%);
+    animation-name: hinduska17;
+    animation-duration: 1s;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+}
+@keyframes hinduska17 {
+    from{
+        top: -300px;
+    }
+    to{
+        top: 400px;
+    }
+}
+#hinduska18{
+    width: 250px;
+    height: 200px;
+    background-image: url('img/hinduska.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 10%;
+    top: -300px;
+    transform: translateX(-50%);
+    animation-name: hinduska18;
+    animation-duration: 1s;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+}
+@keyframes hinduska18 {
+    from{
+        top: -300px;
+    }
+    to{
+        top: 400px;
+    }
+}
